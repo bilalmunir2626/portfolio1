@@ -236,8 +236,8 @@
       }
     
       header nav a {
-        font-size: 1rem; /* Reduce font size */
-        margin: 10px 5px;
+        font-size: 0.9rem; /* Reduce font size */
+        margin: 10px 0px;
       }
     
       #home-section {
@@ -302,23 +302,32 @@
     width: 54%;
 }
 .btn{
-    height: 5vh;
-    width: 24vw;
+    height: 4vh;
+    width: 22vw;
     position: relative;
     top: 0%;
     left: 0%;
   }
   .btn a{
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 .sign{
-  top: 48%;
+  top: 55%;
 }
 .about-1{
   width: 41vw;
-  font-size: 0.7rem;
+}
+.about-1 h1{
+  font-size: 1.5rem;
+}
+.about-1 p{
+  font-size: 0.6rem;
 }
 .btn-box {
   margin: 2% auto;
 }
+}
+.upper-side h1,
+.upper-side h4{
+  word-spacing: 0%;
 }
