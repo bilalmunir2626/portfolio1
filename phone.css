@@ -309,7 +309,7 @@
     left: 0%;
   }
   .btn a{
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 }
 .sign{
   top: 68%;
@@ -330,4 +330,7 @@
 .upper-side h1,
 .upper-side h4{
   word-spacing: 0%;
+}
+.upper-side p{
+  font-size: 0.9rem;
 }
